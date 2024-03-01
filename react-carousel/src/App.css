@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+.listImg {
+  height: 100%;
+  width: 100%;
+}
+.car__img {
+  width: 324px;
+  height: 400px;
+}
+.img__slide {
+  display: flex;
+  justify-content: center;
+}
+.btn_cls {
+  appearance: none;
+  background-color: #04aa6d;
+  border: none;
+  color: white;
+  /* padding: 15px 32px; */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 70px 40px;
+  cursor: pointer;
+}
+.visible {
+  display: block;
+}
+.hidden {
+  display: none;
+}
